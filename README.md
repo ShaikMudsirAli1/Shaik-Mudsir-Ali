@@ -1,83 +1,30 @@
-👋 Hey everyone, I'm ShaikMudsirAli 👋
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2F_i9AUV0dv_0AAAAC%2Fwelcome-banner.gif&tbnid=ItqXbFSEEWjxWM&vet=12ahUKEwjLxNDCocf-AhXRntgFHTXDDooQMyhCegUIARCVAQ..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fwelcome-banner-gif-25050052&docid=T3CqUuVtQtpDlM&w=498&h=199&q=banner%20gif%20images&ved=2ahUKEwjLxNDCocf-AhXRntgFHTXDDooQMyhCegUIARCVAQ
 
+ <h1 align="center">Hi 👋, I'm Shaik Mudsir Ali</h1>
+<h3 align="center">A Curious Web-developer from India.</h3>
+<img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. I've run many hackathons, and am an accomplished MC, speaker, and facilitator 🎤. You'll often catch me at an event, speaking on stage, or on a live stream!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikmudsirali&label=Profile%20views&color=0e75b6&style=flat" alt="shaikmudsirali" /> </p>
 
-Find me all around the web:
-        
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-I'm a gamer too, so you might find me on:
-           
+- 🌱 I’m currently learning **React.**
 
-I'm listening to:
-spotify-github-profile
+- 💬 Ask me about **React, Android, MEARN..**
 
-Pins:
-@mishmanners's Holopin board
+- 📫 How to reach me **mudsirshaik33@gmail.com**
 
-Watch, read, and catch up on content:
-GitHub blog articles 📚
-Esports articles on Upcomer 🕹️ formely Daily Esports
-Gaming articles on Gamepur 🎮
-Tech reviews on TechAU 🖥️
-Blog posts on DEV ✍️
-Blog posts on Codenewbies 💽
-Past Twitch streams 🎥
-Talks and presentations 📣
-Buy merchandise 🛒
-Buy even more merchandise 🛍️
-Sessionize Profile
+- ⚡ Fun fact **I love Cooking.**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Some Fun Facts about me:
-I've founded a few companies in the past ⚡ I love playing video games and you'll find me playing games on my Twitch Channel and live coding! I'm super into sports, including lots of outdoor adventures like hiking, snowboarding, and wakeboarding. You might run into me at an event, so make sure you follow my socials for all the updates. For a super quick live response, jump into my Twitch chat during a live stream. Or DM me on Instagram or Twitter.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-GitHub Stats
-If you haven't had a chance to check out GitHub Skyline yet, do it now. It's a 3D visualisation of your contribution graph. You can interact with your 3D graph, make a video, download the STL file, add annotations, and even view it in Virtual Reality - you'll need a phone and a Google Cardboard to do this, or you can break out the fancy VR headsets. You can also view the ASCII art, and if you know the code combination, you can view the Konami code (コナミコマンド).
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaikmudsirali&show_icons=true&locale=en&layout=compact" alt="shaikmudsirali" /></p>
 
-As for the charts 🥧, if you like my A++ stats, then you can make your own by checking out the GitHub Readme Stats Repo and 🔥 GitHub Readme Streak Stats.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaikmudsirali&show_icons=true&locale=en" alt="shaikmudsirali" /></p>
 
-
-
-GitHub Stats for MishManners
-
-
-
-          My 2022 GitHub Skyline
-          
-          ✧                ☽                  ▁
-          ✧                 ✦          ✦ ▄✦█   █ 
-     ✧ ✦ ✧                  ▃          ▅ █ █▂  █     
-✧                 ✦     ▂   █          █ █ ██ ▇█✧ ✧▂
- ▂▁▄✦▁▂▁▂▁ ▅ ▇▂▁▅      ▅█▂  █  ▁  ✧ ▂▃ █▁█ ██▂██▇▄ █
-▁█████████▇██████▇██▇█▇███▇▇█▇▆█▆▇▇███▇███▇██████████
-Watch my contribution graph get eaten by the snake 🐍
-mishmanners snake gif
-
-About
-No description, website, or topics provided.
-Resources
- Readme
-License
- View license
-Stars
- 112 stars
-Watchers
- 8 watching
-Forks
- 185 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Contributors 3
-@mishmanners
-mishmanners Michelle "MishManners®™" Mannering
-@HackathonQueen
-HackathonQueen HackathonQueen
-@bdougie
-bdougie Brian Douglas
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikmudsirali&" alt="shaikmudsirali" /></p>
